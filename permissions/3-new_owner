@@ -1,2 +1,2 @@
-#!/binh
-touch hello chown betty hello
+#!/bin/bash
+chown betty hello
