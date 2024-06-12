@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/binh
 touch hello chown betty hello
