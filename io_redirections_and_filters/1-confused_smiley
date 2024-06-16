@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -r "\"(\u00d4o)'"
